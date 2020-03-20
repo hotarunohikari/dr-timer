@@ -15,7 +15,7 @@
 	},
 	"autoload":{
 		"psr-4": {
-			"dr\\helper\\": "src"
+			"dr\\": "src"
 		}
 	}
 }

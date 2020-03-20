@@ -4,7 +4,7 @@
  * description : 日期时间工具函数
  */
 
-namespace dr\helper\timer;
+namespace dr\timer;
 
 class DrTimer
 {

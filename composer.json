@@ -1,6 +1,6 @@
 {
     "name": "hotarunohikari/dr-timer",
-	"description": "single sign on",
+	"description": "datetime helper",
 	"type": "composer",
 	"license": "MIT",
     "authors": [
